@@ -1,0 +1,9 @@
+html {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-size: 20px;
+}
+input {
+  width: 40%;
+  height: 30px;
+}
